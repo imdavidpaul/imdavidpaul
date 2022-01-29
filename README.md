@@ -1,9 +1,7 @@
 ### Hey 👋 I'm David
 
 
-- 💬 Ask me about tech
-
-<img src="https://i.imgur.com/zmXLgvW.gif" width="500px">
+<img src="https://i.imgur.com/zmXLgvW.gif" width="350px">
 
 
 ## 🔗 Links
