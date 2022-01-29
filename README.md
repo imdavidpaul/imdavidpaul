@@ -1,4 +1,4 @@
-### Hi there, I'm David 👋
+### Hi there, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <img src="https://i.imgur.com/zmXLgvW.gif" width="350px">
