@@ -3,7 +3,7 @@
 
 - 💬 Ask me about tech
 
-![Alt Text](https://i.imgur.com/zmXLgvW.gif)
+![Alt Text](https://i.imgur.com/zmXLgvW.gif width="40" height="40" )
 
 
 ## 🔗 Links
