@@ -1,4 +1,4 @@
-### Hey 👋 I'm David
+### Hi there, I'm David 👋
 
 
 <img src="https://i.imgur.com/zmXLgvW.gif" width="350px">
