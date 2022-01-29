@@ -5,7 +5,7 @@
 
 ![Alt Text](https://i.imgur.com/zmXLgvW.gif | width=100)
 
-<img src="https://i.imgur.com/zmXLgvW.gif" width="30px">
+<img src="https://i.imgur.com/zmXLgvW.gif" width="500px">
 
 
 ## 🔗 Links
